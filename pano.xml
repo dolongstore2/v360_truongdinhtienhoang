@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="19911" start="node7" appversion="7.0.2">
+  <panorama id="node7">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="208.68" fovmode="2">
+      <start pan="-14.36" tilt="-1.74" fov="131.75" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="38.99"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="131.75"/>
+    </view>
+    <userdata heading="208.68" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="106.69817269" nodeid="node7" tags="" info="" latitude="10.78964409" title="Cổng" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <polyhotspot url="{node8}" target="-6.1/-1.2/131.8" id="Poly01" title="Vào trường" description="">
+        <polystring>-350.14/-15.36|-22.71/-16.6|-28.58/-24.85|-344.75/-22.34|-346.25/-20.23</polystring>
+      </polyhotspot>
+      <hotspot url="{node8}" target="-6.1/-1.2/131.8" tilt="-18.74" id="Point01" skinid="ht_node" pan="-4.9" distance="5.08514" title="Sân cổng" description=""/>
+    </hotspots>
+    <media>
+      <sound loop="-1" mode="1" tilt="7.260" id="Element01" pansize="10.000" level="1.000" pan="-6.080" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/GioiThieu_TruongDinhTienHoang.wav"/>
+      </sound>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="224.411" fovmode="2">
+      <start pan="-6.12" tilt="-1.22" fov="131.75" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="224.411" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="106.69813782" nodeid="node8" tags="tang_1" info="" latitude="10.78961379" title="Sân cổng" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <polyhotspot url="{node1}" target="-69.5/1.4/100.0" id="Poly01" title="Sân chính" description="">
+        <polystring>-357.1/-7.66|-13.03/-7.69|-19.64/-16.19|-20.29/-24.42|-349.05/-24.4|-349.42/-15.15</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node4}" target="-156.4/-8.0/100.0" id="Poly02" title="Đường vào bên phải" description="">
+        <polystring>-62.7/-24.39|-73.33/-16.58|-55.37/-12.93|-58.02/-9.96|-56.85/-7.19|-51.02/-6.45|-43.76/-7.99|-39.88/-10</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node11}" target="32.0/3.4/100.0" id="Poly03" title="Sân trái" description="">
+        <polystring>-271.26/-17.19|-313.49/-14.53|-292.43/-7.08|-275.44/-6.47</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node12}" target="-128.6/4.0/100.0" id="Poly04" title="Sân phải" description="">
+        <polystring>-98.91/-14.11|-98.73/-18.19|-75.46/-16.02|-59.78/-13.3|-72.67/-8.04|-91.9/-8.74|-91.34/-14.22</polystring>
+      </polyhotspot>
+      <hotspot skinid="ht_node" pan="-282.71" url="{node11}" target="39.3/-3.9/100.0" tilt="-10.49" id="Point01" title="Sân trái" description=""/>
+      <hotspot skinid="ht_node" pan="-82.51" url="{node12}" target="-128.9/1.4/100.0" tilt="-10.1" id="Point02" title="Sân phải" description=""/>
+      <hotspot url="{node1}" target="" tilt="-18.71" id="Point03" skinid="ht_node" pan="-4.14" distance="6.83981" title="Sân chính" description=""/>
+      <hotspot url="{node4}" target="-149.5/2.1/101.0" tilt="-16.29" id="Point04" skinid="ht_node" pan="-59.23" distance="12.6189" title="Đường vào bên phải" description=""/>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node11" tags="tang_1" info="" latitude="" title="Sân trái" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-69.87" url="{node8}" target="" tilt="-16.67" id="Point01" title="Sân cổng" description=""/>
+      <hotspot skinid="ht_node" pan="-56.12" url="{node4}" target="" tilt="-7.98" id="Point02" title="Đường vào bên phải" description=""/>
+      <hotspot skinid="ht_node" pan="-242.19" url="{node14}" target="-69.9/-7.1/100.0" tilt="-3.18" id="Point03" title="Sân chơi" description=""/>
+      <polyhotspot url="{node8}" target="" id="Poly01" title="Sân cổng" description="">
+        <polystring>-82.94/-20.32|-73.88/-13.1|-51.57/-12.77|-43.41/-13.69|-42.31/-16.25|-50.94/-21.04</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node4}" target="" id="Poly02" title="Đường vào bên phải" description="">
+        <polystring>-42.65/-9.59|-46.64/-5.54|-68.2/-7.67|-72.81/-12.37|-43.94/-10.74</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node14}" target="-72.6/-2.0/100.0" id="Poly03" title="Sân chơi" description="">
+        <polystring>-229.44/-7.86|-253.46/-8.43|-246.04/-2.1|-236.62/-2.4</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node12" tags="tang_1" info="" latitude="" title="Sân phải" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-38.25" url="{node8}" target="" tilt="-20.42" id="Point01" title="Sân cổng" description=""/>
+      <hotspot skinid="ht_node" pan="-133.17" url="{node4}" target="-149.5/2.1/101.0" tilt="-11.34" id="Point02" title="Đường vào bên phải" description=""/>
+      <polyhotspot url="{node8}" target="-6.1/-1.2/131.8" id="Poly01" title="Sân cổng" description="">
+        <polystring>-6.35/-27.59|-53.54/-30.38|-52.11/-24.49|-71.33/-18.76|-69.02/-13.95|-48.26/-18.49|-47.07/-12.66|-22.3/-14.66</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node4}" target="" id="Poly02" title="Đường vào bên phải" description="">
+        <polystring>-94.51/-19.66|-111.09/-8.13|-147.59/-6.83|-149.94/-23.09|-119.64/-25.3</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="161.343" fovmode="2">
+      <start pan="-69.48" tilt="1.4" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="38.99"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="131.75"/>
+    </view>
+    <userdata heading="161.343" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="106.69809490" nodeid="node1" tags="tang_1" info="" latitude="10.78956900" title="Sân chính" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <polyhotspot url="{node4}" target="-152.7/-1.3/78.8" id="Poly01" title="Đường vào bên phải" description="">
+        <polystring>-132.55/-11.94|-155.2/-13.36|-171.13/-13.35|-174.98/-19.43|-176.74/-23.74|-135.66/-23.32|-131.25/-20.06</polystring>
+      </polyhotspot>
+      <hotspot url="{node4}" target="-149.5/2.1/101.0" tilt="-18.27" id="Point01" skinid="ht_node" pan="-151.66" distance="10.4743" title="Đường vào sân bên phải" description=""/>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="70.7233" fovmode="2">
+      <start pan="-149.52" tilt="2.1" fov="101.01" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="38.99"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="131.75"/>
+    </view>
+    <userdata heading="70.7233" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="106.69802383" nodeid="node4" tags="tang_1" info="" latitude="10.78963224" title="Đường vào bên phải" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <polyhotspot url="{node1}" target="-69.2/-7.6/100.0" id="Poly01" title="Sân chính" description="">
+        <polystring>-37.25/-11.36|-42.39/-10.21|-55.8/-9.93|-56.22/-13.74|-54.21/-15.38|-54.61/-17.95|-55.56/-19.5|-56.37/-24.76|-29.27/-18.56|-32.6/-15.53|-32.76/-12.62|-35.01/-11.87</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node5}" target="-25.5/-0.9/100.0" id="Poly02" title="Đi tới" description="">
+        <polystring>-162.7/-5.65|-164.84/-7.62|-160.19/-8.47|-152.67/-9.5|-150.51/-4.57|-158.9/-3.43|-161.19/-3.93</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node6}" target="0.0/0.0/100.0" id="Poly03" title="Đi tới" description="">
+        <polystring>-146.94/-2.68|-146.51/-3.92|-149.65/-4.36|-150.53/-4.3|-157.58/-3.4|-156.35/-2.16</polystring>
+      </polyhotspot>
+      <hotspot url="{node5}" target="-30.0/4.3/100.0" tilt="-6.9" id="Point01" skinid="ht_node" pan="-157.94" distance="11.5768" title="Đi tới" description=""/>
+      <hotspot url="{node6}" target="0.0/0.0/100.0" tilt="-2.66" id="Point02" skinid="ht_node" pan="-149.32" distance="34.7566" title="Đi tới" description=""/>
+      <hotspot url="{node1}" target="-69.5/1.4/100.0" tilt="-13.56" id="Point03" skinid="ht_node" pan="-45.77" distance="10.4743" title="Sân chính" description=""/>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="192.063" fovmode="2">
+      <start pan="-30" tilt="4.34" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="38.99"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="131.75"/>
+    </view>
+    <userdata heading="192.063" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="106.69795811" nodeid="node5" tags="tang_1" info="" latitude="10.78955056" title="Sân trường" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <polyhotspot url="{node6}" target="6.1/-1.3/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-18.15/-9.13|-20.39/-6.78|-24.15/-5.78|-34.42/-5.8|-39.29/-7.14|-45.01/-11.92|-46.85/-15.03|-25/-15.59|-15.44/-15.03</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node4}" target="7.8/-3.0/100.0" id="Poly02" title="Đường vào bên phải" description="">
+        <polystring>-199.69/-7.59|-203.26/-3.31|-212.58/-3.27|-214.78/-8.36</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node2}" target="-126.4/3.3/100.0" id="Poly03" title="Sân khấu" description="">
+        <polystring>-341.58/-9.26|-347.5/-6.44|-358.52/-7.72|-348.49/-11.66</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node9}" target="-60.7/2.1/100.0" id="Poly04" title="Sân trường" description="">
+        <polystring>-302.41/-5.43|-330.17/-5.3|-333.2/-9.64|-300.31/-11.39</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node13}" target="34.7/-6.0/100.0" id="Poly05" title="Cầu thang lầu 1" description="">
+        <polystring>-335.57/-3.12|-338.29/-2.38|-345.18/-3.34|-344.55/-5.91|-336.37/-7.32|-333.73/-4.56</polystring>
+      </polyhotspot>
+      <hotspot url="{node2}" target="" tilt="-7.24" id="Point01" skinid="ht_node" pan="-350.96" distance="27.5713" title="Sân khấu" description=""/>
+      <hotspot skinid="ht_node" pan="-316.13" url="{node9}" target="-60.7/2.1/100.0" tilt="-6.89" id="Point02" title="Sân trường" description=""/>
+      <hotspot skinid="ht_node" pan="-339.28" url="{node13}" target="40.5/-8.2/100.0" tilt="-4.5" id="Point03" title="Cầu thang lầu 1" description=""/>
+      <hotspot url="{node6}" target="" tilt="-9.27" id="Point04" skinid="ht_node" pan="-29.96" distance="23.1999" title="Đi tới" description=""/>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-168.25" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="38.99"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="131.75"/>
+    </view>
+    <userdata heading="-168.25" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="106.69783875" nodeid="node6" tags="tang_1" info="" latitude="10.78937798" title="Sân trường" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <polyhotspot url="{node2}" target="-124.3/9.2/100.0" id="Poly01" title="Sân khấu" description="">
+        <polystring>-319.99/-11.09|-341.51/-7.52|-1.85/-9.77|-356.57/-17.58|-332.16/-20.55|-316.07/-15.75</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node5}" target="156.2/-0.2/100.0" id="Poly02" title="Sân trường" description="">
+        <polystring>-176.82/-10.01|-188.76/-5.89|-210.61/-6.45|-212.83/-14.03</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node13}" target="" id="Poly03" title="Lối lên cầu thang lầu 1" description="">
+        <polystring>-324.24/-4.49|-329.65/-7.47|-336.33/-4.44|-327.62/-3.44|-325.79/-3.53</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node10}" target="-167.7/-5.7/100.0" id="Poly04" title="Sân trường" description="">
+        <polystring>-246.36/-5.69|-250.77/-4.14|-269.17/-5.41|-271.69/-7.3|-251.81/-9.59</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node9}" target="-60.7/2.1/100.0" id="Poly05" title="Sân trường" description="">
+        <polystring>-282.29/-7.39|-282.88/-6.07|-287.68/-5.25|-304.61/-5.67|-308.4/-9.87|-298.25/-12.99|-282.26/-9.76</polystring>
+      </polyhotspot>
+      <hotspot url="{node2}" target="" tilt="-13.61" id="Point01" skinid="ht_node" pan="-339.48" distance="7.66941" title="Sân khấu" description=""/>
+      <hotspot skinid="ht_node" pan="-329.35" url="{node13}" target="0.0/0.0/100.0" tilt="-3.91" id="Point02" title="Lối lên cầu thang lầu 1" description=""/>
+      <hotspot skinid="ht_node" pan="-289.87" url="{node9}" target="" tilt="-7.42" id="Point03" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-257.54" url="{node10}" target="-173.9/-0.7/100.0" tilt="-5.19" id="Point04" title="Đi tới" description=""/>
+      <hotspot url="{node5}" target="146.0/0.9/100.0" tilt="-7.87" id="Point05" skinid="ht_node" pan="-197.73" distance="23.1999" title="Sân trường" description=""/>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1920" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="1920">
+      <level preload="0" width="1920" predecode="0" height="1920"/>
+      <level preload="0" width="960" predecode="0" height="960"/>
+      <level preload="1" width="480" predecode="1" height="480"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="96.1791" fovmode="2">
+      <start pan="-126.38" tilt="3.27" fov="99.99" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fov="38.99"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="131.75"/>
+    </view>
+    <userdata heading="96.1791" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="106.69787228" nodeid="node2" tags="tang_1" info="" latitude="10.78931738" title="Sân khấu" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <polyhotspot url="{node6}" target="-131.6/-5.4/100.0" id="Poly01" title="Sân trường" description="">
+        <polystring>-217.32/-8.76|-247.31/-7.65|-250.73/-13.34|-216.58/-16.42</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node5}" target="-130.3/-2.4/100.0" id="Poly02" title="Sân trường" description="">
+        <polystring>-251.6/-7.71|-254.22/-13.15|-274.18/-7.71|-267.65/-4.56|-259.4/-6.57</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node9}" target="-60.7/2.1/100.0" id="Poly03" title="Sân trường" description="">
+        <polystring>-9.34/-8.06|-36.21/-8.96|-35.83/-16.31|-7.7/-14.07</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node13}" target="0.0/0.0/100.0" id="Poly04" title="Cầu thang lầu 1" description="">
+        <polystring>-53.33/-6.37|-57.55/-6.22|-57.22/-3.53|-61.09/-3.69|-71.19/-6.55|-62.47/-9.87</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node10}" target="-162.8/8.8/100.0" id="Poly05" title="Sân trường" description="">
+        <polystring>-319.79/-5.33|-332.81/-4.78|-349.96/-6.86|-325.96/-12.36|-319.21/-8.92</polystring>
+      </polyhotspot>
+      <hotspot skinid="ht_node" pan="-19.47" url="{node9}" target="-53.0/-5.0/100.0" tilt="-10.85" id="Point01" title="Sân trường" description=""/>
+      <hotspot skinid="ht_node" pan="-62.28" url="{node13}" target="0.0/0.0/100.0" tilt="-5.7" id="Point02" title="Cầu thang lầu 1" description=""/>
+      <hotspot skinid="ht_info" pan="-106.32" url="" target="_blank" tilt="1.33" id="Point03" title="" description="&lt;iframe src=&quot;https://viettour360.com/img_slider.php?p=truongdinhtienhoang&amp;f=gioithieu&amp;cap=trường tiểu học Đinh Tiên Hoàng&amp;w=100%&amp;h=90%&quot; title=&quot;[viettour360.com](http://viettour360.com/)&quot; style=&quot;&#xa;    width: 100%;&#xa;    height: 790px;&#xa;    border: none;&#xa;&quot;>&lt;/iframe>"/>
+      <hotspot skinid="ht_node" pan="-333.74" url="{node10}" target="-157.1/-1.9/100.0" tilt="-6.4" id="Point04" title="Sân trường" description=""/>
+      <hotspot url="{node6}" target="-124.8/-3.4/100.0" tilt="-11.22" id="Point05" skinid="ht_node" pan="-233.41" distance="7.66941" title="Sân trường" description=""/>
+      <hotspot url="{node5}" target="-124.1/-1.4/100.0" tilt="-7.15" id="Point06" skinid="ht_node" pan="-261.98" distance="27.5713" title="Sân trường" description=""/>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-60.68" tilt="2.11" fov="99.99" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node9" tags="tang_1" info="" latitude="" title="Sân trường" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-348.33" url="{node10}" target="-136.0/0.4/100.0" tilt="-9.64" id="Point01" title="Sân trường" description=""/>
+      <hotspot skinid="ht_info" pan="-89.32" url="" target="_blank" tilt="1.31" id="Point02" title="" description="&lt;iframe src=&quot;https://viettour360.com/img_slider.php?p=truongdinhtienhoang&amp;f=CoSo_VatChat&amp;cap=Cở sở vật chất trường tiểu học Đinh Tiên Hoàng&amp;w=100%&amp;h=90%&quot; title=&quot;[viettour360.com](http://viettour360.com/)&quot; style=&quot;&#xa;    width: 100%;&#xa;    height: 790px;&#xa;    border: none;&#xa;&quot;>&lt;/iframe>"/>
+      <hotspot skinid="ht_node" pan="-119.5" url="{node13}" target="0.0/0.0/100.0" tilt="-4.73" id="Point03" title="Lối lên lầu 1" description=""/>
+      <hotspot skinid="ht_node" pan="-269.69" url="{node5}" target="-173.7/-6.1/100.0" tilt="-6.63" id="Point04" title="Đi tới" description=""/>
+      <hotspot skinid="ht_info" pan="-168.97" url="" target="_blank" tilt="2.71" id="Point05" title="" description="&lt;iframe src=&quot;https://viettour360.com/img_slider.php?p=truongdinhtienhoang&amp;f=gioithieu&amp;cap=trường tiểu học Đinh Tiên Hoàng&amp;w=100%&amp;h=90%&quot; title=&quot;[viettour360.com](http://viettour360.com/)&quot; style=&quot;&#xa;    width: 100%;&#xa;    height: 790px;&#xa;    border: none;&#xa;&quot;>&lt;/iframe>"/>
+      <polyhotspot url="{node10}" target="-141.4/-5.3/100.0" id="Poly01" title="Sân trường" description="">
+        <polystring>-338.98/-9.88|-354.31/-8.6|-6.57/-13.78|-338.77/-17.55</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node13}" target="0.0/0.0/100.0" id="Poly02" title="Cầu thang lầu 1" description="">
+        <polystring>-107.05/-4.98|-114.43/-2.16|-133.96/-4.59|-119.91/-15.16</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node5}" target="-154.0/-1.7/100.0" id="Poly03" title="Sân trường" description="">
+        <polystring>-252.13/-6.94|-284.26/-3.66|-293.06/-9.11|-255.42/-16.7</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node10" tags="tang_1" info="" latitude="" title="Sân trường" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-51.15" url="{node4}" target="-29.7/-3.3/101.0" tilt="-5.41" id="Point01" title="Lối ra cổng" description=""/>
+      <hotspot skinid="ht_node" pan="-303.06" url="{node2}" target="-126.4/3.3/100.0" tilt="-6.12" id="Point02" title="Sân khấu" description=""/>
+      <hotspot skinid="ht_node" pan="-265.05" url="{node13}" target="0.0/0.0/100.0" tilt="-3.01" id="Point03" title="Lối lên cầu thang lầu 1" description=""/>
+      <hotspot skinid="ht_node" pan="-338.34" url="{node6}" target="-95.8/-3.9/100.0" tilt="-6.29" id="Point04" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-265.89" url="{node9}" target="-144.4/2.5/100.0" tilt="-17.79" id="Point05" title="Đi tới" description=""/>
+      <polyhotspot url="{node4}" target="-37.8/-8.6/101.0" id="Poly01" title="Lối ra cổng" description="">
+        <polystring>-41.19/-5.45|-48.29/-9.84|-59.83/-6.34|-58.19/-4.03|-53.5/-3.79|-47.4/-4.64</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node2}" target="-126.4/3.3/100.0" id="Poly02" title="Sân khấu" description="">
+        <polystring>-285.39/-5.62|-312.68/-4.74|-322.86/-8.83|-284.72/-12.2</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node13}" target="0.0/0.0/100.0" id="Poly03" title="Lối lên cầu thang lầu 1" description="">
+        <polystring>-262.6/-8.05|-273.9/-7.27|-275.19/-3.35|-264.3/-2.44|-259.8/-3.55|-257.02/-5.01</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node6}" target="-95.5/-5.8/100.0" id="Poly04" title="Đi tới" description="">
+        <polystring>-323.46/-6.62|-333.69/-4.52|-353.21/-6.29|-337.58/-15.93</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node9}" target="-147.9/5.6/100.0" id="Poly05" title="Đi tới" description="">
+        <polystring>-247/-17.35|-287.74/-20.89|-283.7/-10.09|-258.36/-8.83</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node13" tags="tang_1" info="" latitude="" title="Cầu thang lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-270.38" url="{node15}" target="-76.0/-3.6/100.0" tilt="-14.61" id="Point01" title="Sân chơi" description=""/>
+      <hotspot skinid="ht_node_forward" pan="-356.45" url="{node17}" target="178.8/-6.4/100.0" tilt="-4.71" id="Point02" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-95.66" url="{node2}" target="" tilt="-9.88" id="Point03" title="Ra sân trường" description=""/>
+      <polyhotspot url="{node15}" target="-72.9/-5.4/100.0" id="Poly01" title="Sân chơi" description="">
+        <polystring>-247.33/-22.64|-297.71/-21.27|-293.28/-10.16|-251.39/-10.46</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node2}" target="-126.4/3.3/100.0" id="Poly02" title="Ra sân trường" description="">
+        <polystring>-105.37/-17.53|-70.59/-18.34|-76.62/-8.53|-100.42/-6.83|-102.75/-10.08</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node15" tags="tang_1" info="" latitude="" title="Sân chơi" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-71.72" url="{node16}" target="-132.4/-11.2/100.0" tilt="-8.44" id="Point01" title="Sân chơi" description=""/>
+      <hotspot skinid="ht_node" pan="-258.68" url="{node2}" target="75.4/-5.9/100.0" tilt="-13.92" id="Point02" title="Vào sân trường" description=""/>
+      <polyhotspot url="{node16}" target="-134.6/-5.3/100.0" id="Poly01" title="Sân chơi" description="">
+        <polystring>-47.09/-6.72|-59.82/-6.88|-60.96/-4.61|-78.56/-3.59|-85.24/-5.76|-92.29/-8.49|-93.52/-10.86|-40.91/-12.38</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node2}" target="76.7/-0.5/100.0" id="Poly02" title="Sân khấu" description="">
+        <polystring>-242.06/-23.3|-273.89/-19.7|-257.86/-8.86|-241/-10.87</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node16" tags="tang_1" info="" latitude="" title="Sân chơi" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-121.52" url="{node14}" target="-96.1/-12.0/100.0" tilt="-4.2" id="Point01" title="Sân chơi" description=""/>
+      <hotspot skinid="ht_node" pan="-316.3" url="{node2}" target="83.1/-7.6/100.0" tilt="-6.97" id="Point02" title="Vào sân trường" description=""/>
+      <polyhotspot url="{node14}" target="-115.4/-8.7/100.0" id="Poly01" title="Sân chơi" description="">
+        <polystring>-113.93/-3.2|-107.48/-8.2|-137.05/-8.97|-126.4/-3.71</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node2}" target="77.1/0.9/100.0" id="Poly02" title="Sân khấu" description="">
+        <polystring>-302.92/-6.25|-321.6/-4.4|-336.9/-12.17|-298.24/-13.86</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node14" tags="tang_1" info="" latitude="" title="Sân chơi" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-162.42" url="{node8}" target="-6.1/-1.2/131.8" tilt="-4.16" id="Point01" title="Sân cổng" description=""/>
+      <hotspot skinid="ht_node" pan="-69.43" url="{node16}" target="21.1/-2.8/100.0" tilt="-8.35" id="Point02" title="Sân chơi" description=""/>
+      <polyhotspot url="{node8}" target="-6.1/-1.2/131.8" id="Poly01" title="Sân cổng" description="">
+        <polystring>-157.35/-2.22|-164.99/-2.19|-169.34/-8.38|-152.74/-8.73</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node16}" target="6.8/-10.0/100.0" id="Poly02" title="Sân chơi" description="">
+        <polystring>-58.58/-6.33|-78.65/-6.58|-87.06/-14.48|-52.32/-14.71</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-168.82" tilt="-15.89" fov="108.83" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node17" tags="tang_1" info="" latitude="" title="Cầu thang lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node_forward" pan="-182.43" url="{node18}" target="" tilt="-5.98" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-155.63" url="{node13}" target="-97.8/-12.7/100.0" tilt="-33.14" id="Point02" title="Cầu thang lầu 1" description=""/>
+      <polyhotspot url="{node13}" target="-71.0/-3.8/100.0" id="Poly01" title="Cầu thang lầu 1" description="">
+        <polystring>-143.56/-27.79|-169.58/-31.26|-170.62/-42.96|-138.14/-37.85</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="126.1" tilt="-4.96" fov="108.83" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node18" tags="tang_2" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-235.97" url="{node20}" target="-1.3/-7.6/100.0" tilt="-12.27" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-208.34" url="{node19}" target="-25.7/5.3/100.0" tilt="-16.77" id="Point02" title="Lối vào toilet" description=""/>
+      <hotspot skinid="ht_node" pan="-124.5" url="{node17}" target="-155.7/-25.8/108.8" tilt="-26.29" id="Point03" title="Xuống tầng trệt" description=""/>
+      <polyhotspot url="{node20}" target="0.0/0.0/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-223.73/-9.94|-249.08/-9.7|-253.27/-16.64|-216.55/-16.22</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node19}" target="-29.2/-6.7/100.0" id="Poly02" title="Lối vào toilet" description="">
+        <polystring>-203.68/-22.84|-222.63/-27.16|-224.23/-18.28|-205.52/-14.18</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node17}" target="-157.0/-28.9/108.8" id="Poly03" title="Xuống tầng trệt" description="">
+        <polystring>-115.5/-26.85|-128.63/-30.26|-131.76/-23.93|-121.91/-21.9|-117.69/-22.04</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node20" tags="tang_2" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-150.03" url="{node18}" target="-137.3/-13.5/108.8" tilt="-7.89" id="Point01" title="Lầu 1" description=""/>
+      <hotspot skinid="ht_node" pan="-168.89" url="{node19}" target="0.0/0.0/100.0" tilt="-29.47" id="Point02" title="Toilet lầu 1" description=""/>
+      <hotspot skinid="ht_node" pan="-51.32" url="{node21}" target="55.8/-5.0/100.0" tilt="-8.88" id="Point03" title="Lầu 1" description=""/>
+      <hotspot skinid="ht_node" pan="-319.18" url="{node34}" target="-133.7/-9.9/100.0" tilt="-9.34" id="Point04" title="Đi tới" description=""/>
+      <polyhotspot url="{node18}" target="-129.0/-11.7/108.8" id="Poly01" title="Lối xuống tầng trệt" description="">
+        <polystring>-147.25/-9.32|-125.14/-9.29|-116.14/-14.06|-152.56/-15.21</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node19}" target="0.0/0.0/100.0" id="Poly02" title="Toilet lầu 1" description="">
+        <polystring>-145.62/-29.06|-171.68/-25.63|-172.24/-35.5|-127.32/-40.69|-127.32/-40.69</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node21}" target="59.6/-8.4/100.0" id="Poly03" title="Lầu 1" description="">
+        <polystring>-42.45/-18.31|-63.93/-19.4|-61.48/-5.65|-42.75/-3.63</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node34}" target="" id="Poly04" title="Đi tới" description="">
+        <polystring>-307.66/-17.78|-337.27/-18.46|-331.5/-4.35|-311.23/-5</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node19" tags="tang_2" info="" latitude="" title="Toilet lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-26.69" url="{node20}" target="-26.1/-11.9/100.0" tilt="-3.85" id="Point01" title="Lầu 1" description=""/>
+      <hotspot skinid="ht_info" pan="-43.02" url="" target="_blank" tilt="-9.57" id="Point02" title="" description="&lt;iframe src=&quot;https://viettour360.com/img_slider.php?p=truongdinhtienhoang&amp;f=toilet&amp;cap=trường tiểu học Đinh Tiên Hoàng&amp;w=100%&amp;h=90%&quot; title=&quot;[viettour360.com](http://viettour360.com/)&quot; style=&quot;&#xa;    width: 100%;&#xa;    height: 790px;&#xa;    border: none;&#xa;&quot;>&lt;/iframe>"/>
+      <hotspot skinid="ht_node" pan="-294.49" url="{node32}" target="-135.7/-1.8/100.0" tilt="-5.3" id="Point03" title="Đi tới" description=""/>
+      <polyhotspot url="{node20}" target="-10.2/-8.5/100.0" id="Poly01" title="Lầu 1" description="">
+        <polystring>-18.35/-18.58|-35.82/-19.54|-32.85/-1.53|-20.44/-1.5</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node32}" target="-129.0/-5.6/100.0" id="Poly02" title="Lối vào toilet" description="">
+        <polystring>-287.33/-12.2|-303.9/-12.85|-299.63/-2.32|-289.55/-2.02</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node21" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-298.96" url="{node22}" target="147.5/-1.1/100.0" tilt="-4.98" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-121.31" url="{node20}" target="61.8/-8.5/100.0" tilt="-7.09" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node22}" target="144.1/-22.0/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-291.92/-11.47|-305.77/-12.44|-304.02/-2.32|-295.06/-1.57</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node20}" target="44.2/-3.9/100.0" id="Poly02" title="Lầu 1" description="">
+        <polystring>-110.17/-16.51|-137.49/-17.25|-135.14/-0.51|-111.34/-0.13</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="140.62" tilt="-7.21" fov="99.51" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node22" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-31.78" url="{node23}" target="32.9/-12.2/100.0" tilt="-7.93" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-122.83" url="{node21}" target="-120.9/-5.6/100.0" tilt="-7.62" id="Point02" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-213.69" url="{node29}" target="-170.2/-8.4/100.0" tilt="-6.95" id="Point03" title="Đi tới" description=""/>
+      <polyhotspot url="{node23}" target="41.4/-9.4/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-23.51/-15.34|-40.93/-16.61|-38.52/-5.07|-24.71/-4.42</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node21}" target="-127.0/-2.5/100.0" id="Poly02" title="Đi tới" description="">
+        <polystring>-117.91/-4.43|-129.05/-3.81|-133.19/-14.96|-113.87/-14.92</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node29}" target="-175.0/-2.8/100.0" id="Poly03" title="Đi tới" description="">
+        <polystring>-205.37/-12.77|-223.33/-13.17|-220.23/-3.49|-207.68/-3</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node23" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-324.24" url="{node24}" target="59.7/-10.4/100.0" tilt="-13.28" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-232.62" url="{node22}" target="146.8/-11.5/99.5" tilt="-6.88" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node24}" target="" id="Poly01" title="Đi tới" description="">
+        <polystring>-309.84/-9.6|-331.8/-9.16|-349.39/-14.58|-0.98/-20.12|-303.27/-22.04</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node22}" target="140.6/-7.2/99.5" id="Poly02" title="Đi tới" description="">
+        <polystring>-228.3/-1.54|-238.56/-1.34|-240.79/-14.31|-222.79/-13.04</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node24" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-299.73" url="{node25}" target="-57.3/-2.9/100.0" tilt="-5.38" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-190.99" url="{node23}" target="82.1/-15.0/100.0" tilt="-9.68" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node25}" target="-57.1/-0.3/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-292.82/-12.85|-306.82/-12.69|-305.22/-4.15|-293.29/-4.3</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node23}" target="89.9/-9.3/100.0" id="Poly02" title="Đi tới" description="">
+        <polystring>-175.35/-12.97|-186.55/-8.51|-201.78/-7.23|-203.8/-17.44</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-54.04" tilt="-3.93" fov="63.17" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node25" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-56.64" url="{node26}" target="133.4/-10.0/100.0" tilt="-3.08" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-236.49" url="{node24}" target="179.4/-19.0/100.0" tilt="-3.95" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node26}" target="133.9/-9.1/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-52.35/-7.21|-61.13/-7.41|-60.96/-1.58|-52.51/-1.2|-52.15/-3.62</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node24}" target="159.7/-7.0/100.0" id="Poly02" title="Đi tới" description="">
+        <polystring>-230.06/-9.04|-246.85/-9.56|-243.39/-0.24|-231.39/-1.04</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="144.33" tilt="-11.64" fov="63.17" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node26" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-226.44" url="{node27}" target="102.1/-12.8/100.0" tilt="-9.63" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-110.95" url="{node25}" target="122.3/-7.2/63.2" tilt="-5.18" id="Point02" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-214.16" url="{node5}" target="-24.5/-4.1/100.0" tilt="-29.52" id="Point03" title="Lới xuống sân trường" description=""/>
+      <polyhotspot url="{node27}" target="102.7/-16.5/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-214.1/-6.92|-233.29/-6.84|-240.14/-12.22|-230.91/-16.45|-212.76/-14.62</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node25}" target="117.6/-3.5/63.2" id="Poly02" title="Đi tới" description="">
+        <polystring>-102.34/-12.78|-124.4/-13.35|-119.84/-3.46|-103.36/-3.47</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node5}" target="-30.0/4.3/100.0" id="Poly03" title="Sân trường" description="">
+        <polystring>-190.09/-24.23|-221.55/-24.78|-233.1/-36.37|-184.07/-36.93</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node27" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-302.55" url="{node28}" target="35.9/-8.4/100.0" tilt="-5.03" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-214.32" url="{node26}" target="-118.0/-5.7/63.2" tilt="-10.76" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node28}" target="28.2/-13.7/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-297.96/-3.03|-308.78/-2.95|-313.88/-13.76|-292.41/-13.99</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node26}" target="-119.3/-5.6/63.2" id="Poly02" title="Đi tới" description="">
+        <polystring>-201.37/-9.73|-227.18/-9.53|-229.84/-16.48|-190.67/-15.45</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node28" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-277.3" url="{node29}" target="-138.0/-0.2/100.0" tilt="-9.56" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-7.11" url="{node30}" target="-39.4/-5.2/100.0" tilt="-5.44" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node29}" target="-139.9/-2.2/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-269.87/-5.56|-284.67/-5.11|-290.84/-19.51|-264.16/-18.71</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node30}" target="-31.0/-3.6/100.0" id="Poly02" title="Đi tới" description="">
+        <polystring>-359.31/-11.62|-15.85/-11.66|-14/-4.25|-1.19/-4.4</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node29" tags="tang_2" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-227.96" url="{node28}" target="10.5/-11.4/100.0" tilt="-7.72" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-48.67" url="{node22}" target="-103.4/-10.6/99.5" tilt="-3.88" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node28}" target="5.1/-11.1/100.0" id="Poly01" title="Lầu 1" description="">
+        <polystring>-222.27/-4.24|-233.65/-4.64|-235.77/-13.63|-218.96/-12.6</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node22}" target="-139.1/-13.1/99.5" id="Poly02" title="Đi  tới" description="">
+        <polystring>-43.11/-8.31|-58.29/-8.31|-55.42/-1.34|-43.6/-1.67</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node30" tags="tang_2" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-56.66" url="{node31}" target="-1.8/-2.1/100.0" tilt="-2.23" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-236.96" url="{node28}" target="54.0/-13.2/100.0" tilt="-7.92" id="Point02" title="Đi tới" description=""/>
+      <polyhotspot url="{node31}" target="-5.1/-4.4/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-49.21/-7.66|-63.82/-7.08|-61.31/1.25|-50.88/1.27</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node28}" target="62.1/-8.5/100.0" id="Poly02" title="Đi tới" description="">
+        <polystring>-228.35/-14.57|-250.22/-15.27|-244.93/-5.53|-230.59/-5.57</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node31" tags="tang_2" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-93.93" url="{node32}" target="-159.3/-10.0/100.0" tilt="-17.55" id="Point01" title="Lối vào toilet" description=""/>
+      <hotspot skinid="ht_node" pan="-152.5" url="{node33}" target="-165.4/-11.2/100.0" tilt="-11.15" id="Point02" title="Lối xuống tầng trệt" description=""/>
+      <hotspot skinid="ht_node" pan="-336.72" url="{node34}" target="101.4/-7.8/100.0" tilt="-7.82" id="Point03" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-242.41" url="{node30}" target="84.6/-15.0/100.0" tilt="-8.64" id="Point04" title="Đi tới" description=""/>
+      <polyhotspot url="{node32}" target="-153.9/-11.3/100.0" id="Poly01" title="Toilet lầu 1" description="">
+        <polystring>-81.37/-14.81|-98.36/-11.04|-117.95/-23.08|-82.46/-38.36</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node33}" target="-160.0/-17.1/100.0" id="Poly02" title="Lối xuống tầng trệt" description="">
+        <polystring>-136.76/-7.54|-163.7/-8.44|-172.1/-17.58|-128.04/-16.13</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node34}" target="82.8/-5.3/100.0" id="Poly03" title="Đi tới" description="">
+        <polystring>-329.15/-15.23|-350.31/-14.36|-345.73/-3.91|-329.28/-4.72</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node30}" target="81.6/-8.7/100.0" id="Poly04" title="Đi tới" description="">
+        <polystring>-236.04/-13.32|-252.16/-13.29|-246.64/-5.19|-237.1/-5.68</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node32" tags="tang_2" info="" latitude="" title="Toilet lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-218.23" url="{node19}" target="0.0/0.0/100.0" tilt="-3.43" id="Point01" title="Đi tới" description=""/>
+      <polyhotspot url="{node19}" target="0.0/0.0/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-216.56/-2.68|-214.8/-6.97|-222.18/-7.14|-221.15/-2.76</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node33" tags="Lau_1" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-87.97" url="{node31}" target="11.8/-4.7/100.0" tilt="-5.87" id="Point01" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node_forward" pan="-172.53" url="{node6}" target="112.8/-3.7/100.0" tilt="-39.41" id="Point02" title="Lối xuống tầng trệt" description=""/>
+      <polyhotspot url="{node31}" target="9.4/-6.1/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-70.96/-10.96|-102.43/-11.54|-95.87/-5.67|-75.63/-5.58</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node6}" target="119.2/-3.6/100.0" id="Poly02" title="Lối xuống tầng trệt" description="">
+        <polystring>-147.95/-39.56|-200.43/-42.04|-182.44/-26.14|-150.48/-23.99</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input leveltilesize="510" levelingroll="0" overlap="1" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" height="2000">
+      <level preload="0" width="2000" predecode="0" height="2000"/>
+      <level preload="0" width="1000" predecode="0" height="1000"/>
+      <level preload="1" width="500" predecode="1" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" scaletofit="1" fovstereographic="330" tilt="90" fov="140"/>
+    </view>
+    <userdata heading="0" datetime="15/2/2023 " customnodeid="" source="" copyright="" comment="" altitude="-3048.00" longitude="" nodeid="node34" tags="tang_2" info="" latitude="" title="Lầu 1" author="" description=""/>
+    <hotspots smoothmovement="0" width="80" wordwrap="1" height="0">
+      <label backgroundcolor="0xffffff" height="0" borderradius="1" backgroundalpha="1" bordercolor="0x000000" wordwrap="1" width="80" enabled="1" border="1" background="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
+      <polystyle bordercolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot skinid="ht_float_nadir_logo" pan="-116.57" url="" target="" tilt="-89.78" id="Point01" title="" description=""/>
+      <hotspot skinid="ht_node" pan="-286.47" url="{node20}" target="-50.7/-15.7/100.0" tilt="-10.05" id="Point02" title="Đi tới" description=""/>
+      <hotspot skinid="ht_node" pan="-107.43" url="{node33}" target="-156.2/-16.2/100.0" tilt="-2.09" id="Point01" title="Lối xuống tầng trệt" description=""/>
+      <polyhotspot url="{node20}" target="-28.0/-14.6/100.0" id="Poly01" title="Đi tới" description="">
+        <polystring>-276.7/-16.87|-296.43/-18.37|-289.7/-5.68|-280.29/-5.47</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node33}" target="-158.1/-7.7/100.0" id="Poly02" title="Tầng xuống tầng trệt" description="">
+        <polystring>-102.13/-6.43|-116.75/-7.23|-111.64/-0.96|-103.29/-0.82</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <sound loop="1" mode="0" tilt="-1.000" id="_background" pansize="10.000" level="1.000" pan="-1.000" startmutedmobile="0" field="90.000" tiltsize="10.000" ambientlevel="0.000" nodechangekeep="1">
+        <source url="media/VuiDenTruong.mp3"/>
+      </sound>
+    </media>
+    <transition blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomafterinfov="140" delay="none" zoomspeed="2" zoomoutpause="0" type="crossdissolve" blendtime="1.5" enabled="1" zoomin="6" zoomout="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" startloaded="0" nodedelay="0.00" delay="10.00" speed="0.020" enabled="1" nodefilter="" horizonfromdefview="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedwheel="0" sensitivity="8" contextprojections="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextfullscreen="1" simulatemass="1" hideabout="0" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" tags="" title="Trường Tiểu học Đinh Tiên Hoàng" author="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map index="0" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" googlecustomstylecode="" mapstyle="streets" mapmaxzoom="18" id="Map01" type="web" title="Open_Street_Map" mapprovider="custom"/>
+  <map index="1" mapurltemplate="http://mt0.google.com/vt/lyrs=s&amp;hl=vi&amp;x={x}&amp;y={y}&amp;z={z}" googlecustomstylecode="" mapstyle="streets" mapmaxzoom="18" id="Map02" type="web" title="Google_Map" mapprovider="custom"/>
+  <map index="2" mapurltemplate="https://{s}.dothanhlong.org/basemap/hanhchinh/zxy/t6/VBD/{z}/{x}/{y}.png" googlecustomstylecode="" mapstyle="streets" mapmaxzoom="18" id="Map03" type="web" title="Viet_BanDo" mapprovider="custom"/>
+</tour>
